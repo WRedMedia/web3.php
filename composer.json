@@ -5,7 +5,7 @@
     "license": "MIT",
     
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
          "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.0",
         "kornrunner/keccak": "~1.0",
